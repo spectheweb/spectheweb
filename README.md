@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://i.imgur.com/jIhZHFd.png" />
+  <img src="https://i.imgur.com/2lq6gWK.png" />
 </p>
 
 # apt9
