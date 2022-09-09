@@ -2,10 +2,10 @@
   <img src="https://i.imgur.com/2lq6gWK.png" />
 </p>
 
-# apt9
+# spec
 
 
-I am apt9 alias spec, founder and trainer of the apt. My files are open access, the more complex ones are private, dm me on twitter to get them.
+I am spec, founder and trainer of the apt. No access to public file dm me on discord to get access or info.
 <br />
 
 ### Skills and Experience:
