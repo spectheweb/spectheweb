@@ -24,7 +24,7 @@ I am spec and this is my only web account. No access to public file dm me on dis
 ### GitHub Stats:
 <br />
   
-| ![apt-9's GitHub stats](https://github-readme-stats.vercel.app/api?username=spectheweb&show_icons=true&theme=merko) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spectheweb&theme=merko)](https://github.com/spectheweb/set-up-read-me/tree/main/themes) |
+| ![apt-9's GitHub stats](https://github-readme-stats.vercel.app/api?username=spectheweb&show_icons=true&theme=great-gatsby) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spectheweb&theme=great-gatsby)](https://github.com/spectheweb/set-up-read-me/tree/main/themes) |
 | ------------- | ------------- |
 
 <br />
