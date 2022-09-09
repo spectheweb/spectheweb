@@ -5,7 +5,7 @@
 # spec
 
 
-I am spec, founder and trainer of the apt. No access to public file dm me on discord to get access or info.
+I am spec and this is my only web account. No access to public file dm me on discord to get access or info.
 <br />
 
 ### Skills and Experience:
