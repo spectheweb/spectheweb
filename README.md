@@ -41,5 +41,5 @@ I am spec and this is my only web account. No access to public file dm me on dis
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/spec-apt/count.svg" />
+  <img src="https://profile-counter.glitch.me/spectheweb/count.svg" />
 </p>
